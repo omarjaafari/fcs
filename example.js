@@ -5,15 +5,16 @@ for (let i = 1; i <= 10; i++) {
 
 // 2
 let student = {
-    name: "Alice",
-    score: 95
+    name: "Omar",
+    score: 60
 };
 console.log(student);
 
 // 3
 class Phone {
     call() {
-        console.log("Calling...");
+        console.log("Calling");
     }
 }
+
 
